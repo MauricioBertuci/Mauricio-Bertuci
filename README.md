@@ -3,11 +3,11 @@
 import Desenvolvedor from "Mauricio Bertuci";
 
 class SobreMim extends desenvolvedor {
-  nome =
-  area =
-  trabalho =
-  contato =
-  cursos =
+  nome = "Mauricio Bertuci Saletti"
+  area = ""
+  trabalho = ""
+  contato = ""
+  cursos = ""
   }
   
 
