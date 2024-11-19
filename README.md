@@ -3,10 +3,10 @@
 import Desenvolvedor from "Mauricio Bertuci";
 
 class SobreMim extends desenvolvedor {
-  nome = "Mauricio Bertuci Saletti"
-  area = ""
-  trabalho = ""
-  contato = ""
+  nome = "Mauricio Bertuci Saletti";
+  area = "Desenvolvedor"
+  trabalho = "Tecnologia da Informção na Justiça Federal 3°região"
+  contato = "bertuci.mauricio@gmail.com"
   cursos = ""
   }
   
